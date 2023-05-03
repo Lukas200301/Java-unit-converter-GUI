@@ -1,5 +1,5 @@
 # Java-unit-converter
-Java unit converter for Lenghts/Weights/Fluids/Temperatures as GUI.
+Java unit converter with JFrame GUI for Lenghts/Weights/Fluids/Temperatures.
 
 This is a project i needed to create for my university. 
 
